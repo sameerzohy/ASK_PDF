@@ -135,5 +135,5 @@ Query Workflow (rag_query_pdf_ai)
     3.Retrieves top-k relevant chunks
     4.Sends context to Gemini 2.0 Flash
     5.Returns AI-generated answer with sources
-<img width="1440" height="900" alt="Screenshot 2025-10-02 at 8 26 34 AM" src="https://github.com/user-attachments/assets/8a39ccd3-64d8-4109-a444-5f9bbe603498" />
+
 
